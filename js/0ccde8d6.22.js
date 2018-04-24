@@ -1,1 +1,0 @@
-webpackJsonp([22],{824:function(t,n){t.exports='\x3c!--\ntitle: "Github"\ngithub: https://github.com/jaywcjlove/rdoc\nsort: 4\n--\x3e\n'}});
